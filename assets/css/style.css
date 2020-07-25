@@ -1,0 +1,21 @@
+.navbar-main {
+    background-color: #7ebdc2;
+}
+
+.jumbotron {
+    background-color: #efe6dd;
+}
+
+.featurette-divider {
+    margin: 5rem 0;
+}
+
+.row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
